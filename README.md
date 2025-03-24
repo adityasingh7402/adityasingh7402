@@ -25,7 +25,3 @@
 
 ---
 
-### 🎯 Extra Enhancements:
-- **Add GitHub Contributions Graph:**  
-  ```md
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityasingh7402&theme=dark)
